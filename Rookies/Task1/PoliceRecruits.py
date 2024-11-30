@@ -18,6 +18,4 @@ def Untreatd_Crimes(events : list):
 
     print(untreated)
 
-    print(untreated)
-
 Untreatd_Crimes(Events)
