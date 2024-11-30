@@ -1,6 +1,7 @@
 length = int(input(""))
 Heights = input("").split()
 
+
 def minimum_time(heights : list):
     
     res = list(map(int, heights))
